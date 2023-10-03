@@ -4,12 +4,12 @@
   "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-lightblue.svg)](https://opensource.org/licenses/MIT)",
   "main": "server.js",
   "scripts": {
-    "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
-    "start": "npm run build && cd server && node server.js",
-    "server": "cd server nodemon server.js --ignore client",
-    "build": "cd client && npm run build",
-    "install": "cd client && npm install",
-    "client": "cd client && npm start"
+    "start:dev": "",
+    "start": "",
+    "server": "t",
+    "build": "",
+    "install": "",
+    "client": ""
   },
   "keywords": [],
   "author": "VithusanU",
