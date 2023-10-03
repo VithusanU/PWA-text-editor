@@ -80,4 +80,4 @@ We are using jest for testing the development of the functions. No test have bee
 
 ### Deployed Links
 
-[DeployedLink]{}
+[DeployedLink]{https://floating-lowlands-76660-b35a7ab863ea.herokuapp.com/}
